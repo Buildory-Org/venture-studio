@@ -1,6 +1,7 @@
 {
   "name": "venture-studio-os",
-  "version": "0.1.0",
+  "version": "0.2.0",
+  "description": "Venture Studio OS: one shared memory for a team's AI, and the work it runs.",
   "private": true,
   "engines": {
     "node": ">=20.19.0"

@@ -1,4 +1,4 @@
-# Keep secrets, local data, and build output out of image builds.
+# Venture Studio OS: keep secrets, local data, and build output out of image builds.
 **/node_modules
 **/.next
 **/.next-preview

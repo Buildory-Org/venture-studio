@@ -1,7 +1,7 @@
 # Venture Studio OS (Venture OS)
 
 **One shared memory for a team's AI, and the work it runs.**
-Team Buildory · AlgoStorm 2.0
+Team Buildory · AlgoStorm 2.0 · Version 0.2.0
 
 Small teams now run their businesses through AI, but every person's AI knows a different version of the business. Venture OS is a self-hosted team workspace that is also an MCP server: each venture's knowledge, skills, decisions and tasks live in one place, and **each teammate's own Claude reads and acts on them live, with that person's permissions**. Claude does the work; people make the decisions.
 

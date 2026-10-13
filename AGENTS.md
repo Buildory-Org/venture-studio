@@ -1,5 +1,7 @@
 # Venture Studio OS agent instructions
 
+Product overview: [README.md](README.md). The problem we solve: [PROBLEM_STATEMENT.md](PROBLEM_STATEMENT.md).
+
 ## Shared workflow
 
 - Treat `TODO.md` as the delivery ledger. Update checkboxes only when the matching work and verification are complete.

@@ -1,3 +1,4 @@
+// Shared TypeScript settings, extended by apps/api, apps/worker, packages/contracts and packages/core.
 {
   "compilerOptions": {
     "target": "ES2022",

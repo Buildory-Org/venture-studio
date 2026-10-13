@@ -82,3 +82,5 @@ volumes.** They hold the live database.
 - Windows power settings: never sleep. Set Windows Update active hours so restarts happen at night, or enable automatic
   sign-in so the app comes back after a restart without you.
 - Optional: in the BIOS, enable power-on after power loss.
+
+Product overview: [../README.md](../README.md). Every environment setting: [../docs/setup-and-operations.md](../docs/setup-and-operations.md).

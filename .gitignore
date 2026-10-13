@@ -1,3 +1,4 @@
+# Venture Studio OS: dependencies, build output and local files stay out of Git.
 node_modules/
 .next/
 **/.next/

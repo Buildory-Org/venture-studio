@@ -1,5 +1,7 @@
 # Venture Studio OS delivery plan
 
+Product overview: [README.md](README.md). The problem we solve: [PROBLEM_STATEMENT.md](PROBLEM_STATEMENT.md).
+
 Checkboxes are updated only after implementation and verification. Approval gates remain unchecked until the user explicitly approves them.
 
 ## Phase 0 â€” Foundation

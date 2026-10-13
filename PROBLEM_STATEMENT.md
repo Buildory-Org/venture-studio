@@ -1,6 +1,6 @@
 # Problem statement
 
-**Team Buildory · AlgoStorm 2.0 · Venture Studio OS ("Venture OS")**
+**Team Buildory · AlgoStorm 2.0 · Venture Studio OS ("Venture OS")** · Last updated 13 October 2026
 
 > Small teams now run their businesses through AI, but every person's AI knows a different version of the business. Venture OS gives the whole team one shared, permissioned memory per business, read by each person's own Claude, and lets that AI run the work while people keep every decision.
 

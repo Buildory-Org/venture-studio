@@ -23,3 +23,5 @@ Run every command from the Venture OS repo root.
 **Run it yourself:** `& .\tooling\sales-qa\start-local.ps1` in PowerShell (from the repo root) starts the
 API, web app and notification worker in three windows and opens http://localhost:3000/sales/live (needs the MongoDB
 Windows service running). If they're already running it just opens the page.
+
+These scripts are live QA flows (Playwright), separate from the unit tests run by `npm test`; see the root [README.md](../../README.md#tests).
